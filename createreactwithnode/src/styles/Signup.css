@@ -1,0 +1,49 @@
+ul{
+
+    list-style: none;
+    padding:0;
+    width:30%;
+    margin:auto;
+}
+
+
+li{
+    font-size: 1.3rem;
+    line-height: 2rem;
+    border-bottom: 1px dotted #777;
+}
+
+.submissionMessage{
+    font-size: 1.3rem;
+    color: red;
+    text-align: center;
+}
+
+.signuptable{
+
+    alignment: center;
+    border: 3px;
+    padding: 10px;
+    margin-left: 40%;
+    border-style: dotted;
+}
+
+h2{
+
+    text-align: center;
+}
+
+.buttonforSignup{
+
+    margin-top: 5px;
+    margin-left: 92px;
+}
+
+
+.buttonforReset{
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+
+

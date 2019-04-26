@@ -1,0 +1,18 @@
+
+
+
+.header{
+
+    alignment: center;
+}
+
+.header>p{
+
+    text-align: center;
+}
+
+.buttonOnHeader{
+
+
+   margin-left: 42%;
+}
